@@ -31,7 +31,7 @@ void loop() {
     String rem = reminder[i];
     int len = rem.length();
 
-    for (int j = 0; j < len + 16; j++) {d:\Project\Arduino\Train_station_indicator\Train_station_indicator.ino
+    for (int j = 0; j < len + 16; j++) 
       lcd.clear();
       lcd.print(rem.substring(j, j + 16));
       delay(70);
