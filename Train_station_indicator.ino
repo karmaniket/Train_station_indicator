@@ -1,7 +1,8 @@
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
-
+int i;
+int j;
 String reminder[] = {
   "                Next station > Mulund > Destination > Chhatrapati Shivaji Maharaj Terminus (CSMT) ",
   "                Next station > Ghatkopar > Destination > Chhatrapati Shivaji Maharaj Terminus (CSMT) ",
@@ -42,4 +43,3 @@ void loop() {
     lcd.clear();
     delay(1000);
   }
-}
