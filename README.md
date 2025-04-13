@@ -4,7 +4,7 @@ This project replicates a train station display system inspired by `local trains
 
 ## ⚡ Preview
 
-    https://github.com/user-attachments/assets/267f1faa-3a63-469f-b48c-8e760969c698
+https://github.com/user-attachments/assets/267f1faa-3a63-469f-b48c-8e760969c698
 
 ## 🚀 Features
 
