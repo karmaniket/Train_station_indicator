@@ -2,7 +2,7 @@
 
 This project replicates a train station display system inspired by `local trains`. A complete simulation setup is provided, allowing you to test your design before executing on actual hardware. This is ideal for learning embedded systems, prototyping transport solutions and creating demonstrations.
 
-## ⚡ Preview
+## ⚡ Simulation
 
 https://github.com/user-attachments/assets/267f1faa-3a63-469f-b48c-8e760969c698
 
