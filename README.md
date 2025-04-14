@@ -8,10 +8,10 @@ https://github.com/user-attachments/assets/267f1faa-3a63-469f-b48c-8e760969c698
 
 ## 🚀 Features
 
-- Mimics real-world train station display system.
-- Shows Current Stop, Upcoming Stop and Final Destination.
-- Suitable for both simulation and hardware prototyping.
-- Real-time update intervals.
+- Mimics real-world train station display system
+- Shows Current Stop, Upcoming Stop and Final Destination
+- Suitable for both simulation and hardware prototyping
+- Real-time update intervals
 
 > [!NOTE]
 > Designed with a modular programming approach, enabling separation of logic for station updates, LCD initialization and system flow control.
@@ -53,21 +53,21 @@ https://github.com/user-attachments/assets/267f1faa-3a63-469f-b48c-8e760969c698
 
 ### Run Simulation
 
-- Compile and generate `HEX file` from `LcdTrain.ino` in Arduino IDE.
-- Find the `.hex` file path, commonly present in your Arduino `sketches` folder.
-- Open Proteus do the `interfacing`.
-- Ensure the Arduino Uno is `configured` to load compiled HEX file.
-- Double click the Arduino Uno in Proteus and `load` the .hex file.
-- `Run Simulation` in Proteus and observe the LCD.
+- Compile and generate `HEX file` from `LcdTrain.ino` in Arduino IDE
+- Find the `.hex` file path, commonly present in your Arduino `sketches` folder
+- Open Proteus do the `interfacing`
+- Ensure the Arduino Uno is `configured` to load compiled HEX file
+- Double click the Arduino Uno in Proteus and `load` the .hex file
+- `Run Simulation` in Proteus and observe the LCD
 
 > [!TIP]
 > All necessary resources including `Code`, `HEX file` and `Proteus schematic` are provided for quick and efficient practice.
 
 ## 🌟 Future Enhancements
 
-- Integrate real-time GPS, GSM, RFID and current time.
-- Display bilingual station names.
-- Add sound output for audio announcements.
+- Integrate real-time GPS, GSM, RFID and RTC
+- Display bilingual station names
+- Add sound output for audio announcements
 
 ## ©️ License
 
